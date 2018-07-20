@@ -1,5 +1,7 @@
 The chart control can plot more than 25 chart types, ranging from line charts to specialized financial charts. Its rich feature set includes functionalities like data binding, multiple axes, legends, animations, data labels, annotations, trackballs, tooltips, and zooming.
+
 The following samples are available for chart to demonstrate the functionalities of each feature.
+
 | Sample | Description |
 | ------ | ----------- |
 | Area Chart | Area is the simplest and most versatile of statistical diagrams. It displays area for each point in the series and points from adjacent series are covered by area series. |
