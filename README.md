@@ -1,6 +1,8 @@
 **Essential Studio for Xamarin**
 
-This repository contains the source code for all the demo samples of Syncfusion Xamarin components. This is the best place to check our controls in action and get more insight about the APIs usage. You can also install our complete sample browser from [play store](), [app store]() and [Windows store](https://www.microsoft.com/en-in/p/syncfusion-essential-studio-for-xamarin/9nn069tldzf4), and browse the demo samples of all controls and also take a look at the source code of the samples using the built-in source code view.
+This repository contains the source code for all the demo samples of Syncfusion Xamarin components. This is the best place to check our controls in action and get more insight about the APIs usage. You can also install our complete sample browser from [play store](https://play.google.com/store/apps/details?id=com.syncfusion.samplebrowser), [app store]() and [Windows store](https://www.microsoft.com/en-in/p/syncfusion-essential-studio-for-xamarin/9nn069tldzf4), and browse the demo samples of all controls and also take a look at the source code of the samples using the built-in source code view.
+
+*Requirements*
 
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
