@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Sample.ttf">
+            <Link>Resources\Sample.ttf</Link>
+        </BundleResource>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\autocompleteplayer.ttf">
+            <Link>Resources\autocompleteplayer.ttf</Link>
+        </BundleResource>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\icon.ttf">
+            <Link>Resources\icon.ttf</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Spaceship.png">
+            <Link>Resources\Spaceship.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\lookfor.png">
+            <Link>Resources\lookfor.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Maps1.png">
+            <Link>Resources\Maps1.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Media.png">
+            <Link>Resources\Media.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Music.png">
+            <Link>Resources\Music.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Newspaper.png">
+            <Link>Resources\Newspaper.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Offline.png">
+            <Link>Resources\Offline.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Picture.png">
+            <Link>Resources\Picture.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\search.png">
+            <Link>Resources\search.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\searchicon.png">
+            <Link>Resources\searchicon.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\icon_512x512.png">
+            <Link>Resources\icon_512x512.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\a0.png">
+            <Link>Resources\a0.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\a1.png">
+            <Link>Resources\a1.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\a2.png">
+            <Link>Resources\a2.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\a3.png">
+            <Link>Resources\a3.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\a4.png">
+            <Link>Resources\a4.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\a5.png">
+            <Link>Resources\a5.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Aeroplane.png">
+            <Link>Resources\Aeroplane.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\all.png">
+            <Link>Resources\all.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Available.png">
+            <Link>Resources\Available.pn</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Away.png">
+            <Link>Resources\Away.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b0.png">
+            <Link>Resources\b0.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b1.png">
+            <Link>Resources\b1.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b10.png">
+            <Link>Resources\b10.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b11.png">
+            <Link>Resources\b11.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b12.png">
+            <Link>Resources\b12.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b13.png">
+            <Link>Resources\b13.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b2.png">
+            <Link>Resources\b2.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b3.png">
+            <Link>Resources\b3.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b4.png">
+            <Link>Resources\b4.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b5.png">
+            <Link>Resources\b5.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b6.png">
+            <Link>Resources\b6.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b7.png">
+            <Link>Resources\b7.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b8.png">
+            <Link>Resources\b8.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\b9.png">
+            <Link>Resources\b9.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Book.png">
+            <Link>Resources\Book.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\Busy.png">
+            <Link>Resources\Busy.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\DND.png">
+            <Link>Resources\DND.png</Link>
+        </BundleResource>
+    </ItemGroup>
+    <ItemGroup>
+        <BundleResource Include="..\..\AutoComplete\AutoComplete.iOS\Resources\icon.png">
+            <Link>Resources\icon.png</Link>
+        </BundleResource>
+    </ItemGroup>
+</Project>

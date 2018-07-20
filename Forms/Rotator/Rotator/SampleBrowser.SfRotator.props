@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <ItemGroup>
+        <Compile Include="..\..\Rotator\Rotator\Samples\RotatorModel.cs">
+            <Link>Samples\Rotator\RotatorModel.cs</Link>
+        </Compile>
+        <Compile Include="..\..\Rotator\Rotator\Samples\RotatorViewModel.cs">
+            <Link>Samples\Rotator\RotatorViewModel.cs</Link>
+        </Compile>
+        <Compile Include="..\..\Rotator\Rotator\Samples\Rotator\Rotator.xaml.cs">
+            <Link>Samples\Rotator\Rotator\Rotator.xaml.cs</Link>
+            <DependentUpon>Rotator.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="..\..\Rotator\Rotator\Samples\Rotator\Rotator_Default.xaml.cs">
+            <Link>Samples\Rotator\Rotator\Rotator_Default.xaml.cs</Link>
+            <DependentUpon>Rotator_Default.xaml</DependentUpon>
+        </Compile>
+        <Compile Include="..\..\Rotator\Rotator\Samples\Rotator\Rotator_Tablet.xaml.cs">
+            <Link>Samples\Rotator\Rotator\Rotator_Tablet.xaml.cs</Link>
+            <DependentUpon>Rotator_Tablet.xaml</DependentUpon>
+        </Compile>
+    </ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="..\..\Rotator\Rotator\SamplesList\SamplesList.xml">
+            <Link>Samples\Rotator\SamplesList\SamplesList.xml</Link>
+        </EmbeddedResource>
+    </ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="..\..\Rotator\Rotator\Samples\Rotator\Rotator.xaml">
+            <Link>Samples\Rotator\Rotator\Rotator.xaml</Link>
+            <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+            <SubType>Designer</SubType>
+        </EmbeddedResource>
+    </ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="..\..\Rotator\Rotator\Samples\Rotator\Rotator_Default.xaml">
+            <Link>Samples\Rotator\Rotator\Rotator_Default.xaml</Link>
+            <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+            <SubType>Designer</SubType>
+        </EmbeddedResource>
+    </ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="..\..\Rotator\Rotator\Samples\Rotator\Rotator_Tablet.xaml">
+            <Link>Samples\Rotator\Rotator\Rotator_Tablet.xaml</Link>
+            <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+            <SubType>Designer</SubType>
+        </EmbeddedResource>
+    </ItemGroup>
+</Project>

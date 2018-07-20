@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+     <Compile Include="..\..\Picker\Picker.UWP\ButtonRenderer.cs" > 
+	 <Link>Picker\ButtonRenderer.cs</Link> 
+	 </Compile> 
+     <Compile Include="..\..\Picker\Picker.UWP\CustomEntryRenderer.cs" > 
+	 <Link>Picker\CustomEntryRenderer.cs</Link> 
+	</Compile> 
+    </ItemGroup>
+ <ItemGroup>
+    <Content Include="..\..\Picker\Picker.UWP\date.png" >
+	<Link>date.png</Link>
+	</Content>
+    <Content Include="..\..\Picker\Picker.UWP\germany.png" >
+	<Link>germany.png</Link>
+	</Content>
+    <Content Include="..\..\Picker\Picker.UWP\india.png" >
+	<Link>india.png</Link>
+	</Content>
+    <Content Include="..\..\Picker\Picker.UWP\picker_location.png" >
+	<Link>picker_location.png</Link>
+	</Content>
+    
+    <Content Include="..\..\Picker\Picker.UWP\timeold.png" >
+	<Link>timeold.png</Link>
+	</Content>
+    <Content Include="..\..\Picker\Picker.UWP\uae.png" >
+	<Link>uae.png</Link>
+	</Content>
+    <Content Include="..\..\Picker\Picker.UWP\uk.png" >
+	<Link>uk.png</Link>
+	</Content>
+
+    <Content Include="..\..\Picker\Picker.UWP\usa.png" >
+	<Link>usa.png</Link>
+	</Content>
+  </ItemGroup>
+  
+</Project>

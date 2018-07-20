@@ -1,0 +1,65 @@
+<Project>
+  <ItemGroup>
+   <Compile Include="..\..\ImageEditor\ImageEditor.UWP\FileStore.cs">
+   <Link>ImageEditor\FileStore.cs</Link>
+</Compile>
+   <Compile Include="..\..\ImageEditor\ImageEditor.UWP\Renderers\CustomRenderer.cs">
+   <Link>ImageEditor\Renderers\CustomRenderer.cs</Link>
+</Compile>
+   <Compile Include="..\..\ImageEditor\ImageEditor.UWP\Share.cs">
+   <Link>ImageEditor\Share.cs</Link>
+</Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\pen_customization.png">
+    <Link>Assets\pen_customization.png</Link>
+</Content>
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\rect_customization.png">
+    <Link>Assets\rect_customization.png</Link>
+</Content>
+ 
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\redo_customization.png">
+    <Link>Assets\redo_customization.png</Link>
+</Content>
+   <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\reset_customization.png">
+    <Link>Assets\reset_customization.png</Link>
+</Content>
+
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\share_customization.png">
+    <Link>Assets\share_customization.png</Link>
+</Content>
+
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\text_customization.png">
+    <Link>Assets\text_customization.png</Link>
+</Content>
+
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\Typogy1.svg">
+    <Link>Assets\Typogy1.svg</Link>
+</Content>
+
+   <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\Typogy2.svg">
+    <Link>Assets\Typogy2.svg</Link>
+</Content>
+
+   <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\Typogy3.svg">
+    <Link>Assets\Typogy3.svg</Link>
+</Content>
+
+   <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\Typogy4.svg">
+    <Link>Assets\Typogy4.svg</Link>
+</Content>
+
+   <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\Typogy5.svg">
+    <Link>Assets\Typogy5.svg</Link>
+</Content>
+
+   <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\Typogy6.svg">
+    <Link>Assets\Typogy6.svg</Link>
+</Content>
+
+    <Content Include="..\..\ImageEditor\ImageEditor.UWP\Assets\undo_customization.png">
+    <Link>Assets\undo_customization.png</Link>
+</Content>
+
+   </ItemGroup>
+</Project>

@@ -1,0 +1,96 @@
+<Project>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Archery.png">
+      <Link>Icons\Archery.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Boxing.png">
+      <Link>Icons\Boxing.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Cycling.png">
+      <Link>Icons\Cycling.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Diving.png">
+      <Link>Icons\Diving.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Gymnastics.png">
+      <Link>Icons\Gymnastics.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Shooting.png">
+      <Link>Icons\Shooting.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Soccer.png">
+      <Link>Icons\Soccer.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Swimming.png">
+      <Link>Icons\Swimming.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\TrackAndField.png">
+      <Link>Icons\TrackAndField.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Icons\Wrestling.png">
+      <Link>Icons\Wrestling.png</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\SamplesList\SamplesList.xml">
+      <Link>Samples\TreeMap\SamplesList\SamplesList.xml</Link>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\Hierarchical\Hierarchical.xaml.cs">
+      <Link>Samples\TreeMap\Samples\Hierarchical\Hierarchical.xaml.cs</Link>
+      <DependentUpon>Hierarchical.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\Hierarchical\HierarchicalModel.cs">
+      <Link>Samples\TreeMap\Samples\Hierarchical\HierarchicalModel.cs</Link>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\Hierarchical\HierarchicalViewModel.cs">
+      <Link>Samples\TreeMap\Samples\Hierarchical\HierarchicalViewModel.cs</Link>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\TreeMapCustomization\TreeMapCustomization.xaml.cs">
+      <Link>Samples\TreeMap\Samples\TreeMapCustomization\TreeMapCustomization.xaml.cs</Link>
+      <DependentUpon>TreeMapCustomization.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\TreeMapCustomization\TreeMapCustomizationModel.cs">
+      <Link>Samples\TreeMap\Samples\TreeMapCustomization\TreeMapCustomizationModel.cs</Link>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\TreeMapCustomization\TreeMapCustomizationViewModel.cs">
+      <Link>Samples\TreeMap\Samples\TreeMapCustomization\TreeMapCustomizationViewModel.cs</Link>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStarted.xaml.cs">
+      <Link>Samples\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStarted.xaml.cs</Link>
+      <DependentUpon>TreeMapGettingStarted.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStartedModel.cs">
+      <Link>Samples\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStartedModel.cs</Link>
+    </Compile>
+    <Compile Include="..\..\TreeMap\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStartedViewModel.cs">
+      <Link>Samples\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStartedViewModel.cs</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Samples\Hierarchical\Hierarchical.xaml">
+      <Link>Samples\TreeMap\Samples\Hierarchical\Hierarchical.xaml</Link>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Samples\TreeMapCustomization\TreeMapCustomization.xaml">
+      <Link>Samples\TreeMap\Samples\TreeMapCustomization\TreeMapCustomization.xaml</Link>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\TreeMap\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStarted.xaml">
+      <Link>Samples\TreeMap\Samples\TreeMapGettingStarted\TreeMapGettingStarted.xaml</Link>
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

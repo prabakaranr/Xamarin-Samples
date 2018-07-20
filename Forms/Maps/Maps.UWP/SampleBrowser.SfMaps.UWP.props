@@ -1,0 +1,40 @@
+﻿
+<Project>
+  
+  <ItemGroup>
+   <Compile Include="..\..\Maps\Maps.UWP\NetConnection_UWP.cs">
+   <Link>Maps\NetConnection_UWP.cs</Link>
+   </Compile>
+   </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\Custom.dbf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\Custom.dbf</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\Custom.shp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\Custom.shp</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\Custom.shx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\Custom.shx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\usa_state.dbf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\usa_state.dbf</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\usa_state.shp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\usa_state.shp</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\world1.dbf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\world1.dbf</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Maps\Maps.UWP\Assets\ShapeFiles\world1.shp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  <Link>Assets\ShapeFiles\world1.shp</Link>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

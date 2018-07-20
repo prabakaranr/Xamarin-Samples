@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup> 
+     <Compile Include="..\..\TabView\TabView.UWP\CustomFrameRenderer.cs" > 
+	 <Link>TabView\CustomFrameRenderer.cs</Link> 
+	 </Compile> 
+   </ItemGroup> 
+  <ItemGroup>
+    <Content Include="..\..\TabView\TabView.UWP\a0.png" >
+	<Link>a0.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\a1.png" >
+	<Link>a1.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\a2.png" >
+	<Link>a2.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\a3.png" >
+	<Link>a3.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\a4.png" >
+	<Link>a4.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\a5.png" >
+	<Link>a5.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\allmail.png" >
+	<Link>allmail.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\apple.png" >
+	<Link>apple.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b0.png" >
+	<Link>b0.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b1.png" >
+	<Link>b1.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b10.png" >
+	<Link>b10.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b11.png" >
+	<Link>b11.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b12.png" >
+	<Link>b12.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b13.png" >
+	<Link>b13.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b2.png" >
+	<Link>b2.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b3.png" >
+	<Link>b3.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b4.png" >
+	<Link>b4.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b5.png" >
+	<Link>b5.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b6.png" >
+	<Link>b6.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b7.png" >
+	<Link>b7.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b8.png" >
+	<Link>b8.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\b9.png" >
+	<Link>b9.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\banana.png" >
+	<Link>banana.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\blackshoe.png" >
+	<Link>blackshoe.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\blueberry.png" >
+	<Link>blueberry.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\boots.png" >
+	<Link>boots.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\canvas.png" >
+	<Link>canvas.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\chair.png" >
+	<Link>chair.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\Compose.png" >
+	<Link>Compose.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\edit.png" >
+	<Link>edit.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\friends.png" >
+	<Link>friends.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\graycanvas.png" >
+	<Link>graycanvas.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\hall.png" >
+	<Link>hall.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\hall2.png" >
+	<Link>hall2.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\leather.png" >
+	<Link>leather.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\minion.png" >
+	<Link>minion.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\orange.png" >
+	<Link>orange.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\tabviewphone.png" >
+	<Link>tabviewphone.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\redcoat.png" >
+	<Link>redcoat.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\robot.png" >
+	<Link>robot.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\Send.png" >
+	<Link>Send.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\shirt.png" >
+	<Link>shirt.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\silvercoat.png" >
+	<Link>silvercoat.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\sofa.png" >
+	<Link>sofa.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\sofa2.png" >
+	<Link>sofa2.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\strawberry.png" >
+	<Link>strawberry.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\tab1.png" >
+	<Link>tab1.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\tab2.png" >
+	<Link>tab2.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\tab3.png" >
+	<Link>tab3.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\tab4.png" >
+	<Link>tab4.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\train.png" >
+	<Link>train.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\tshirt.png" >
+	<Link>tshirt.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\van.png" >
+	<Link>van.png</Link>
+	</Content>
+    <Content Include="..\..\TabView\TabView.UWP\whiteshirt.png" >
+	<Link>whiteshirt.png</Link>
+	</Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="..\..\TabView\TabView.UWP\Assets\Fonts\NestedTab.ttf" >
+	<Link>Assets\Fonts\NestedTab.ttf</Link>
+	</Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\TabView\TabView.UWP\Assets\Fonts\Segoe MDL2 Assets.ttf" >
+	<Link>Assets\Fonts\Segoe MDL2 Assets.ttf</Link>
+	</Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\TabView\TabView.UWP\Assets\Fonts\TabIcons.ttf" >
+	<Link>Assets\Fonts\TabIcons.ttf</Link>
+	</Content>
+  </ItemGroup>
+  
+</Project>

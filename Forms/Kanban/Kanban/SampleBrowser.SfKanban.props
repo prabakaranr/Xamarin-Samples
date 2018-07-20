@@ -1,0 +1,36 @@
+  <Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Kanban\kanban\SamplesList\SamplesList.xml" >
+	<Link>Samples\Kanban\SamplesList\SamplesList.xml</Link>
+	</EmbeddedResource>
+  </ItemGroup>
+<ItemGroup>
+	<Compile Include="..\..\Kanban\kanban\Samples\KanbanCustomizationSample\KanbanCustomViewModel.cs" >
+	<Link>Samples\Kanban\Samples\KanbanCustomizationSample\KanbanCustomViewModel.cs</Link>
+	</Compile>
+    <Compile Include="..\..\Kanban\kanban\Samples\KanbanDependencyService.cs" >
+	<Link>Samples\Kanban\Samples\KanbanDependencyService.cs</Link>
+	</Compile>
+    <Compile Include="..\..\Kanban\kanban\Samples\KanbanGettingStarted\ViewModel.cs" >
+	<Link>Samples\Kanban\Samples\KanbanGettingStarted\ViewModel.cs</Link>
+	</Compile>
+    <Compile Include="..\..\Kanban\kanban\Samples\KanbanCustomizationSample\KanbanCutomizationSample.xaml.cs">
+	<Link>Samples\Kanban\Samples\KanbanCustomizationSample\KanbanCutomizationSample.xaml.cs</Link>
+      <DependentUpon>KanbanCustomizationSample.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="..\..\Kanban\kanban\Samples\KanbanGettingStarted\KanbanGettingStarted.xaml.cs">
+	<Link>Samples\Kanban\Samples\KanbanGettingStarted\KanbanGettingStarted.xaml.cs</Link>
+      <DependentUpon>KanbanGettingStarted.xaml</DependentUpon>
+    </Compile>
+</ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Kanban\kanban\Samples\KanbanCustomizationSample\KanbanCustomizationSample.xaml">
+	<Link>Samples\Kanban\Samples\KanbanCustomizationSample\KanbanCustomizationSample.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Kanban\kanban\Samples\KanbanGettingStarted\KanbanGettingStarted.xaml">
+	<Link>Samples\Kanban\Samples\KanbanGettingStarted\KanbanGettingStarted.xaml</Link>
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
