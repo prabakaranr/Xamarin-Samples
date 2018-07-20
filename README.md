@@ -8,7 +8,7 @@ Here is the complete list of all the components that ship with Essential Studio 
 
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
-| <center><b>GRIDS<b></center> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
+| <b style="text-align: center;">GRIDS<b> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
 | DataGrid | DataGrid | DataGrid |
 | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> |
 | Chart | Chart | Chart |
