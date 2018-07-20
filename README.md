@@ -1,10 +1,6 @@
-**Overview**
+**Essential Studio for Xamarin**
 
-Essential Studio for Xamarin contains all the necessary user interface components like datagrids, charts and gauges that are needed to build typical line of business mobile applications. User interface elements like the charts and gauges can be configured in a common view using C# or XAML and it gets rendered as native controls on the respective platforms without any additional work.
-
-This suite also includes a powerful set of components for manipulating Microsoft Excel, Microsoft Word and Adobe PDF file formats. All the file format components have a feature rich API that exposes most of the functionality that the underlying file format itself has to offer.
-
-Here is the complete list of all the components that ship with Essential Studio for Xamarin
+This repository contains the source code for all the demo samples of Syncfusion Xamarin components. This is the best place to check our controls in action and get more insight about the APIs usage. You can also install our complete sample browser from [play store](), [app store]() and [Windows store](https://www.microsoft.com/en-in/p/syncfusion-essential-studio-for-xamarin/9nn069tldzf4), and browse the demo samples of all controls and also take a look at the source code of the samples using the built-in source code view.
 
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
