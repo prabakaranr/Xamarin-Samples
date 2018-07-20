@@ -4,7 +4,7 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 
 **Requirements to run the demo samples**
 * Visual Studio 2017 or Visual Studio for Mac.
-* Xamarin add-ons for Visual Studio
+* Xamarin add-ons for Visual Studio.
 
 **Samples**
 
