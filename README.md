@@ -9,7 +9,7 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
 | <b>GRIDS<b> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
-| [DataGrid](ExpenseAnalysis/ExpenseAnalysis.Droid/) | [DataGrid](https://github.com/prabakaranr/expenseanalysis/tree/master/ExpenseAnalysis) | [DataGrid](https://github.com/prabakaranr/expenseanalysis/tree/master/ExpenseAnalysis) |
+| [DataGrid](Forms/DataGrid) | [DataGrid](Android/SampleBrowser/Samples/DataGrid) | [DataGrid](iOS/SampleBrowser/Samples/DataGrid) |
 | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> |
 | Bar Code | Bar Code | Bar Code |
 | Chart | Chart | Chart |
