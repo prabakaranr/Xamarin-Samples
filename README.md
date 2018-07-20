@@ -12,7 +12,7 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 | [Data Grid](Forms/DataGrid) | [Data Grid](Android/SampleBrowser/Samples/DataGrid) | [Data Grid](iOS/SampleBrowser/Samples/DataGrid) |
 | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> |
 | Bar Code | Bar Code | Bar Code |
-| Chart(Forms/Chart) | Chart(Android/SampleBrowser/Samples/Chart) | Chart(iOS/SampleBrowser/Samples/Chart) |
+| [Chart](Forms/Chart) | [Chart](Android/SampleBrowser/Samples/Chart) | [Chart](iOS/SampleBrowser/Samples/Chart) |
 | Circular Gauge | Circular Gauge | Circular Gauge |
 | Diagram | Diagram | Diagram |
 | Digital Gauge | Digital Gauge | Digital Gauge |
