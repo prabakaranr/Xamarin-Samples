@@ -6,6 +6,11 @@ This suite also includes a powerful set of components for manipulating Microsoft
 
 Here is the complete list of all the components that ship with Essential Studio for Xamarin
 
+| Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
+| ------------- | --------------- | ----------- |
+| Data Visualization | Data Visualization | Data Visualization |
+| DataGrid | DataGrid | DataGrid |
+
 **Grid**
 
   [DataGrid](https://github.com/prabakaranr/expenseanalysis/tree/master/ExpenseAnalysis)
