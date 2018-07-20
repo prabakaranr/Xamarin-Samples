@@ -7,8 +7,8 @@ This suite also includes a powerful set of components for manipulating Microsoft
 Here is the complete list of all the components that ship with Essential Studio for Xamarin
 
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
-| ------------- | --------------- | ----------- |
-| <p style="text-align: center;"><b>GRIDS<b></p> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
+|:-------------:| --------------- | ----------- |
+| <b>GRIDS<b> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
 | DataGrid | DataGrid | DataGrid |
 | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> |
 | Chart | Chart | Chart |
