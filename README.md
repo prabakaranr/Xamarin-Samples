@@ -13,7 +13,17 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 | <b>GRIDS<b> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
 | [DataGrid](https://github.com/prabakaranr/expenseanalysis/tree/master/ExpenseAnalysis) | [DataGrid](https://github.com/prabakaranr/expenseanalysis/tree/master/ExpenseAnalysis) | [DataGrid](https://github.com/prabakaranr/expenseanalysis/tree/master/ExpenseAnalysis) |
 | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> |
+| Bar Code | Bar Code | Bar Code |
 | Chart | Chart | Chart |
+| Circular Gauge | Circular Gauge | Circular Gauge |
+| Diagram | Diagram | Diagram |
+| Digital Gauge | Digital Gauge | Digital Gauge |
+| Linear Gauge | Linear Gauge | Linear Gauge |
+| Maps | Maps | Maps |
+| Range Navigator | Range Navigator | Range Navigator |
+| Sparkline | Sparkline | Sparkline |
+| Sunburst Chart | Sunburst Chart | Sunburst Chart |
+| Tree Map | Tree Map | Tree Map |
 | <b><center>CALENDAR</center><b> | <b><center>CALENDAR</center><b> | <b><center>CALENDAR</center><b> |
 | Schedule | Schedule | Schedule |
 | Calendar | Calendar | Calendar |
