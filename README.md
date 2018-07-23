@@ -7,19 +7,19 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 **Project Structure**
 This repository contains the sample applications for our Xamarin.iOS, Xamarin.Android, and Xamarin.Forms controls in iOS, Android and Forms folders, respectively.
 
-The “Forms” directory includes,
+The "Forms" directory includes,
 
-	Individual control sample folders: It contains the samples for individual controls such as SfChart, SfDataGrid etc. Since they represent the individual controls, these samples are light-weighted. You can check the samples for your required controls alone faster with minimum deployment time.
+Individual control sample folders: It contains the samples for individual controls such as SfChart, SfDataGrid etc. Since they represent the individual controls, these samples are light-weighted. You can check the samples for your required controls alone faster with minimum deployment time.
 
-	It also contains showcase samples such as Patient Monitor, Server Monitor, and Invoice.
+It also contains showcase samples such as Patient Monitor, Server Monitor, and Invoice.
 
-The “Android” directory includes,
+The "Android" directory includes,
 
-	“SampleBrowser” folder: It contains Xamarin.Android sample browser. Run this to see the demo samples of all the Xamarin.Android controls in single application.
+"SampleBrowser" folder: It contains Xamarin.Android sample browser. Run this to see the demo samples of all the Xamarin.Android controls in single application.
 
-The “iOS” directory includes,
+The "iOS" directory includes,
 
-	“SampleBrowser” folder: It contains Xamarin.iOS sample browser. Run this to see the demo samples of all the Xamarin.iOS controls in single application.
+"SampleBrowser" folder: It contains Xamarin.iOS sample browser. Run this to see the demo samples of all the Xamarin.iOS controls in single application.
 
 **Samples**
 
