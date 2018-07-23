@@ -5,6 +5,7 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 * Xamarin add-ons for Visual Studio.
 
 **Project Structure**
+
 This repository contains the sample applications for our Xamarin.iOS, Xamarin.Android, and Xamarin.Forms controls in iOS, Android and Forms folders, respectively.
 
 The "Forms" directory includes,
