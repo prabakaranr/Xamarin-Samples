@@ -50,7 +50,7 @@ This repository contains the demo samples of Syncfusion Xamarin components. This
 | [Range Slider](Forms/RangeSlider) | [Range Slider](Android/SampleBrowser/Samples/RangeSlider) | [Range Slider](iOS/SampleBrowser/Samples/RangeSlider) |
 | [Rating](Forms/Rating) | [Rating](Android/SampleBrowser/Samples/Rating) | [Rating](iOS/SampleBrowser/Samples/Rating) |
 | [Masked Text Box](Forms/SfMaskedEdit) | [Masked Text Box](Android/SampleBrowser/Samples/SfMaskedEdit) | [Masked Text Box](iOS/SampleBrowser/Samples/MaskedEdit) |
-| <b><center>FILE FORMATS</center><b> | <b><center>EDFILE FORMATSITORS</center><b> | <b><center>FILE FORMATS</center><b> |
+| <b><center>FILE FORMATS</center><b> | <b><center>FILE FORMATS</center><b> | <b><center>FILE FORMATS</center><b> |
 | [Excel](Forms/XlsIO) | [Excel](Android/SampleBrowser/Samples/XlsIO) | [Excel](iOS/SampleBrowser/Samples/XlsIO) |
 | [PDF](Forms/PDF) | [PDF](Android/SampleBrowser/Samples/PDF) | [PDF](iOS/SampleBrowser/Samples/PDF) |
 | [Word](Forms/DocIO) | [Word](Android/SampleBrowser/Samples/DocIO) | [Word](iOS/SampleBrowser/Samples/DocIO) |
