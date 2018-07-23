@@ -10,8 +10,6 @@ The <b>"Forms"</b> directory includes,
 
 Individual control sample folders: It contains the samples for individual controls such as SfChart, SfDataGrid etc. Since they represent the individual controls, these samples are light-weighted. You can check the samples for your required controls alone faster with minimum deployment time.
 
-It also contains showcase samples such as Patient Monitor, Server Monitor, and Invoice.
-
 The <b>"Android"</b> directory includes,
 
 "SampleBrowser" folder: It contains Xamarin.Android sample browser. Run this to see the demo samples of all the Xamarin.Android controls in single application.
