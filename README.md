@@ -1,10 +1,10 @@
-This repository contains the demo samples of Syncfusion Xamarin components. This is the best place to check our controls to get more insight about the APIs usage. You can also install our complete Xamarin.Forms sample browser from [play store](https://play.google.com/store/apps/details?id=com.syncfusion.samplebrowser) and [windows store](https://www.microsoft.com/en-in/p/syncfusion-essential-studio-for-xamarin/9nn069tldzf4), and browse the demo for all the controls with option to view the source code inside the application itself.
+This repository contains the demo samples of Syncfusion Xamarin components. This is the best place to check our controls to get more insight about the APIs usage. You can also install our complete Xamarin.Forms sample browser from [play store](https://play.google.com/store/apps/details?id=com.syncfusion.samplebrowser) and [windows store](https://www.microsoft.com/en-in/p/syncfusion-essential-studio-for-xamarin/9nn069tldzf4), and browse the demo for all the controls with option to view the source code within the application itself.
 
-**Requirements to run the demo samples**
+# Requirements to run the demo samples
 * Visual Studio 2017 or Visual Studio for Mac.
 * Xamarin add-ons for Visual Studio.
 
-**Project Structure**
+# Repository Structure
 
 The <b>"Forms"</b> directory contains the demo samples for each control such as Chart, Data Grid etc. All the samples can be deployed in Android, iOS and UWP platforms. Additionally, Chart, DataGrid and ListView samples can be deployed in macOS platform also. 
 
@@ -12,7 +12,7 @@ The <b>"Android/SampleBrowser"</b> directory contains Xamarin.Android sample bro
 
 The <b>"iOS/SampleBrowser"</b> directory contains Xamarin.iOS sample browser project. Run this project to see the demo samples of all the Xamarin.iOS controls in single application.
 
-**Samples**
+# Samples Catalog
 
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
