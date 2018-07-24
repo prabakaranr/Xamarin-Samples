@@ -59,17 +59,17 @@ The <b>"iOS"</b> directory includes,
 | [Pop-up](Forms/PopupLayout) | [Pop-up](Android/SampleBrowser/Samples/PopupLayout) | [Pop-up](iOS/SampleBrowser/Samples/PopupLayout) |
 | <b><center>EDITORS</center><b> | <b><center>EDITORS</center><b> | <b><center>EDITORS</center><b> |
 | [Autocomplete](Forms/AutoComplete) | [Autocomplete](Android/SampleBrowser/Samples/Autocomplete) | [Autocomplete](iOS/SampleBrowser/Samples/Autocomplete) |
-| [Check Box(Preview)](Forms/CheckBox) | [Check Box(Preview)](Android/SampleBrowser/Samples/CheckBox) | [Check Box(Preview)](iOS/SampleBrowser/Samples/CheckBox) |
-| [Combo Box(Preview)](Forms/ComboBox) | [Combo Box(Preview)](Android/SampleBrowser/Samples/ComboBox) | [Combo Box(Preview)](iOS/SampleBrowser/Samples/ComboBox) |
-| [Data Form(Preview)](Forms/DataForm) | [Data Form(Preview)](Android/SampleBrowser/Samples/DataForm) | [Data Form(Preview)](iOS/SampleBrowser/Samples/DataForm) |
+| [Check Box (Preview)](Forms/CheckBox) | [Check Box (Preview)](Android/SampleBrowser/Samples/CheckBox) | [Check Box (Preview)](iOS/SampleBrowser/Samples/CheckBox) |
+| [Combo Box (Preview)](Forms/ComboBox) | [Combo Box (Preview)](Android/SampleBrowser/Samples/ComboBox) | [Combo Box (Preview)](iOS/SampleBrowser/Samples/ComboBox) |
+| [Data Form (Preview)](Forms/DataForm) | [Data Form (Preview)](Android/SampleBrowser/Samples/DataForm) | [Data Form (Preview)](iOS/SampleBrowser/Samples/DataForm) |
 | [Masked Text Box](Forms/MaskedEdit) | [Masked Text Box](Android/SampleBrowser/Samples/SfMaskedEdit) | [Masked Text Box](iOS/SampleBrowser/Samples/MaskedEdit) |
 | [Numeric Text Box](Forms/NumericTextBox) | [Numeric Text Box](Android/SampleBrowser/Samples/NumericTextBox) | [Numeric Text Box](iOS/SampleBrowser/Samples/NumericTextBox) |
 | [Numeric Up-Down](Forms/NumericUpDown) | [Numeric Up-Down](Android/SampleBrowser/Samples/NumericUpDown) | [Numeric Up-Down](iOS/SampleBrowser/Samples/NumericUpDown) |
 | [Picker](Forms/Picker) | [Picker](Android/SampleBrowser/Samples/SfPicker) | [Picker](iOS/SampleBrowser/Samples/Picker) |
-| [Radio Button(Preview)](Forms/RadioButton) |-| [Radio Button(Preview)](iOS/SampleBrowser/Samples/RadioButton) |
+| [Radio Button (Preview)](Forms/RadioButton) |-| [Radio Button (Preview)](iOS/SampleBrowser/Samples/RadioButton) |
 | [Range Slider](Forms/RangeSlider) | [Range Slider](Android/SampleBrowser/Samples/RangeSlider) | [Range Slider](iOS/SampleBrowser/Samples/RangeSlider) |
 | [Rating](Forms/Rating) | [Rating](Android/SampleBrowser/Samples/Rating) | [Rating](iOS/SampleBrowser/Samples/Rating) |
-| [Segmented Control(Preview)](Forms/SegmentedControl) | [Segmented Control(Preview)](Android/SampleBrowser/Samples/SegmentedView) |[Segmented Control(Preview)](iOS/SampleBrowser/Samples/SegmentedControl) |
+| [Segmented Control (Preview)](Forms/SegmentedControl) | [Segmented Control (Preview)](Android/SampleBrowser/Samples/SegmentedView) |[Segmented Control (Preview)](iOS/SampleBrowser/Samples/SegmentedControl) |
 | <b><center>FILE FORMATS</center><b> | <b><center>FILE FORMATS</center><b> | <b><center>FILE FORMATS</center><b> |
 | [Excel](Forms/XlsIO) | [Excel](Android/SampleBrowser/Samples/XlsIO) | [Excel](iOS/SampleBrowser/Samples/XlsIO) |
 | [PDF](Forms/PDF) | [PDF](Android/SampleBrowser/Samples/PDF) | [PDF](iOS/SampleBrowser/Samples/PDF) |
