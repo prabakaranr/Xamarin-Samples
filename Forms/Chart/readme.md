@@ -4,7 +4,7 @@ The following samples are available for chart to demonstrate the functionalities
 
 | Sample | Description |
 | ------ | ----------- |
-| Area Chart | |
+| [Area Chart](Chart/Samples/AreaChart) | |
 | Line Chart |  |
 | Column Chart | |
 | Spline Chart | |
