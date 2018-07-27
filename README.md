@@ -49,7 +49,7 @@ The <b>"iOS/SampleBrowser"</b> directory contains Xamarin.iOS sample browser pro
 | [TabView](Forms/TabView) | [TabView](Android/SampleBrowser/Samples/TabView) | [TabView](iOS/SampleBrowser/Samples/TabView) |
 | <b><center>LAYOUT</center><b> | <b><center>LAYOUT</center><b> | <b><center>LAYOUT</center><b> |
 | [Carousel](Forms/Carousel) | [Carousel](Android/SampleBrowser/Samples/Carousel) | [Carousel](iOS/SampleBrowser/Samples/Carousel) |
-| [List View](Forms/ListView) | - | - |
+| [ListView](Forms/ListView) | - | - |
 | [Pop-up](Forms/PopupLayout) | [Pop-up](Android/SampleBrowser/Samples/PopupLayout) | [Pop-up](iOS/SampleBrowser/Samples/PopupLayout) |
 | <b><center>EDITORS</center><b> | <b><center>EDITORS</center><b> | <b><center>EDITORS</center><b> |
 | [Autocomplete](Forms/AutoComplete) | [Autocomplete](Android/SampleBrowser/Samples/Autocomplete) | [Autocomplete](iOS/SampleBrowser/Samples/Autocomplete) |
