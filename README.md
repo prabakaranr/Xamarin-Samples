@@ -26,7 +26,7 @@ The <b>"iOS/SampleBrowser"</b> directory contains Xamarin.iOS sample browser pro
 | [Digital Gauge](Forms/DigitalGauge) | [Digital Gauge](Android/SampleBrowser/Samples/DigitalGauge) | [Digital Gauge](iOS/SampleBrowser/Samples/DigitalGauge) |
 | [Linear Gauge](Forms/LinearGauge) | [Linear Gauge](Android/SampleBrowser/Samples/LinearGauge) | [Linear Gauge](iOS/SampleBrowser/Samples/LinearGauge) |
 | [Maps](Forms/Maps) | [Maps](Android/SampleBrowser/Samples/Maps) | [Maps](iOS/SampleBrowser/Samples/Maps) |
-| [Range Navigator](Forms/RangeNavigator) | [Range Navigator](Android/SampleBrowser/Samples/RangeNavigator) | [Range Navigator](iOS/SampleBrowser/Samples/DRangeNavigatorataGrid) |
+| [Range Navigator](Forms/RangeNavigator) | [Range Navigator](Android/SampleBrowser/Samples/RangeNavigator) | [Range Navigator](iOS/SampleBrowser/Samples/RangeNavigator) |
 | [Sparkline](Forms/Sparkline) | [Sparkline](Android/SampleBrowser/Samples/Sparkline) | [Sparkline](iOS/SampleBrowser/Samples/Sparkline) |
 | [Sunburst Chart](Forms/SunburstChart) | [Sunburst Chart](Android/SampleBrowser/Samples/Sunburst) | [Sunburst Chart](iOS/SampleBrowser/Samples/Sunburst) |
 | [Tree Map](Forms/TreeMap) | [Tree Map](Android/SampleBrowser/Samples/TreeMap) | [Tree Map](iOS/SampleBrowser/Samples/TreeMap) |
