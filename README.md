@@ -17,10 +17,10 @@ The <b>"iOS/SampleBrowser"</b> directory contains Xamarin.iOS sample browser pro
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
 | <b>GRIDS<b> | <B><center>GRIDS</center><b> | <b><center>GRIDS</center><b> |
-| [Data Grid](Forms/DataGrid) | [Data Grid](Android/SampleBrowser/Samples/DataGrid) | [Data Grid](iOS/SampleBrowser/Samples/DataGrid) |
+| [DataGrid](Forms/DataGrid) | [DataGrid](Android/SampleBrowser/Samples/DataGrid) | [DataGrid](iOS/SampleBrowser/Samples/DataGrid) |
 | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> | <b><center>DATA VISUALIZATION</center></b> |
 | [Bar Code](Forms/BarCode) | [Bar Code](Android/SampleBrowser/Samples/BarCode) | [Bar Code](iOS/SampleBrowser/Samples/BarCode) |
-| [Chart](Forms/Chart) | [Chart](Android/SampleBrowser/Samples/Chart) | [Chart](iOS/SampleBrowser/Samples/Chart) |
+| [Charts](Forms/Chart) | [Charts](Android/SampleBrowser/Samples/Chart) | [Charts](iOS/SampleBrowser/Samples/Chart) |
 | [Circular Gauge](Forms/CircularGauge) | [Circular Gauge](Android/SampleBrowser/Samples/CircularGauge) | [Circular Gauge](iOS/SampleBrowser/Samples/CircularGauge) |
 | [Diagram](Forms/Diagram)| [Diagram](Android/SampleBrowser/Samples/Diagram) | [Diagram](iOS/SampleBrowser/Samples/Diagram) |
 | [Digital Gauge](Forms/DigitalGauge) | [Digital Gauge](Android/SampleBrowser/Samples/DigitalGauge) | [Digital Gauge](iOS/SampleBrowser/Samples/DigitalGauge) |
