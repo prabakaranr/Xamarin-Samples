@@ -12,7 +12,7 @@ The <b>"Android/SampleBrowser"</b> directory contains Xamarin.Android sample bro
 
 The <b>"iOS/SampleBrowser"</b> directory contains Xamarin.iOS sample browser project. Run this project to see the demo samples of all the Xamarin.iOS controls in single application.
 
-# Samples Catalog
+# Controls Catalog
 
 | Xamarin.Forms | Xamarin.Android | Xamarin.iOS |
 | ------------- | --------------- | ----------- |
