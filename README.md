@@ -46,17 +46,17 @@ If you have
 
 ## Screenshots (In Progress)
 <p align="center">
-    <img src="Images/xamarin-forms-login-templates." alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-login-templates.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>Login Screens</i></p>
 
 <p align="center">
-    <img src="Images/xamarin-forms-login-templates..png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-login-templates.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>E-Commerce Screens</i></p>
 
 <p align="center">
-    <img src="Images/xamarin-forms-login-templates..png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-login-templates.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>Chat Screens</i></p>
 
