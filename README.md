@@ -36,7 +36,7 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 * We do not prefix internal and private instance fields with `_`, static fields with `s_` and thread static fields with `t_`.
 
 ## Requesting Screens
-If you have 
+If you would like to request a new screen, go ahead and create a feature request through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
 
 ## Reporting Bugs
 
