@@ -2,7 +2,7 @@
 This repository contains the reusable UI templates to build a cross platform application using Xamarin.Forms. The templates developed from ground up by considering the different layouts, orientations, design pattern, RTL, localization, performance, ease of integration and more.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/prabakaranr/Xamarin-Samples/master/xamarin-forms-templates.png" alt="Image"/>
+    <img src="Images/xamarin-forms-templates.png" alt="Image"/>
 </p>
 
 ## Key Features
@@ -46,22 +46,22 @@ If you have
 
 ## Screenshots (In Progress)
 <p align="center">
-    <img src="https://blog.syncfusion.com/wp-content/uploads/2019/04/xamarin-forms-login-screens.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-login-screens.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>Login Screens</i></p>
 
 <p align="center">
-    <img src="https://blog.syncfusion.com/wp-content/uploads/2019/04/xamarin-forms-login-screens.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-login-screens.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>E-Commerce Screens</i></p>
 
 <p align="center">
-    <img src="https://blog.syncfusion.com/wp-content/uploads/2019/04/xamarin-forms-login-screens.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-login-screens.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>Chat Screens</i></p>
 
 ## License
-Licensed under the MIT License. Refer to the [LICENSE](https://github.com/prabakaranr/Xamarin-Samples/blob/master/LICENSE) file for more information.
+Licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for more information.
 
 **Note:** If any of the Syncfusion controls are used in your page, then you have to obtain the [Essential Studio for Xamarin](https://www.syncfusion.com/downloads/xamarin) license either under the [Syncfusion community license](https://www.syncfusion.com/downloads/communitylicense) program or the [Syncfusion commercial license](https://www.syncfusion.com/sales/products).
 
