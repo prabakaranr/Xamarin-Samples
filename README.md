@@ -55,7 +55,7 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 </p>
 <p align="center"><i>Chat Screens</i></p>
 
-## Requesting Screens && Reporting Bugs
+## Requesting Screens & Reporting Bugs
 If you would like to request a new screen or report a bug in existing screens, go ahead and create a feature request or log a bug through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
 
 ## License
