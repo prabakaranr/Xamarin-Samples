@@ -35,11 +35,6 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 * We use tabs instead of spaces.
 * We do not prefix internal and private instance fields with `_`, static fields with `s_` and thread static fields with `t_`.
 
-## Requesting Screens
-If you would like to request a new screen, go ahead and create a feature request through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
-
-## Reporting Bugs
-
 ## Recent Blogs / News
 * https://blog.syncfusion.com/post/introducing-ui-templates-for-xamarin-forms.aspx
 
@@ -59,6 +54,9 @@ If you would like to request a new screen, go ahead and create a feature request
     <img src="Images/xamarin-forms-login-templates.png" alt="Image" height="350" width="800"/>
 </p>
 <p align="center"><i>Chat Screens</i></p>
+
+## Requesting Screens && Reporting Bugs
+If you would like to request a new screen or report a bug in existing screens, go ahead and create a feature request or log a bug through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
 
 ## License
 Licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for more information.
