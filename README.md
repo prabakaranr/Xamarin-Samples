@@ -2,7 +2,7 @@
 This repository contains the reusable UI templates to build a cross platform application using Xamarin.Forms. The templates developed from ground up by considering the different layouts, orientations, design pattern, RTL, localization, performance, ease of integration and more.
 
 <p align="center">
-    <img src="xamarin-forms-ui-template.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template.png" alt="Image"/>
 </p>
 
 ## Key Features
