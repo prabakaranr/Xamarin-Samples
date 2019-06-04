@@ -46,7 +46,7 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 <p align="center"><i>Login Screens</i></p>
 
 <p align="center">
-    <img src="Images/xamarin-forms-e-commerce.png" alt="Image" height="2349" width="1920"/>
+    <img src="Images/xamarin-forms-e-commerce.png" alt="Image"/>
 </p>
 <p align="center"><i>E-Commerce Screens</i></p>
 
