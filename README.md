@@ -5,6 +5,12 @@ This repository contains the reusable UI templates to build a cross platform app
     <img src="Images/xamarin-forms-ui-template.png" alt="Image"/>
 </p>
 
+## Build Status
+|CI Tool                    |Build Status|
+|---------------------------|---|
+| App Center, iOS | [![Build status](https://build.appcenter.ms/v0.1/apps/ca1f283a-7255-45e4-8cf1-d2ce46cb4a0a/branches/master/badge)](https://appcenter.ms)|
+| App Center, Android | [![Build status](https://build.appcenter.ms/v0.1/apps/4e5e10f9-04aa-48ca-ba31-0a58da0c4c4d/branches/master/badge)](https://appcenter.ms) |
+
 ## Key Features
 * Rich and elegant XAML layouts for most common scenarios.
 * The layouts are optimized for Phones, Tablets, and Desktop.
@@ -40,20 +46,40 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 
 
 ## Screenshots (In Progress)
+<p align="center"><i>Articles</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-login-templates.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-article-page.png" alt="Image"/>
 </p>
-<p align="center"><i>Login Screens</i></p>
 
+<p align="center"><i>E-Commerce</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-e-commerce.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-e-commerce-page.png" alt="Image" height="350" width="800"/>
 </p>
-<p align="center"><i>E-Commerce Screens</i></p>
 
+<p align="center"><i>Chat</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-login-templates.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-chat-screen.png" alt="Image" height="350" width="800"/>
 </p>
-<p align="center"><i>Chat Screens</i></p>
+
+<p align="center"><i>Feedback</i></p>
+<p align="center">
+    <img src="Images/xamarin-forms-ui-template-feedback-page.png" alt="Image" height="350" width="800"/>
+</p>
+
+<p align="center"><i>Navigation</i></p>
+<p align="center">
+    <img src="Images/xamarin-forms-ui-template-navigation-page.png" alt="Image" height="350" width="800"/>
+</p>
+
+<p align="center"><i>OnBoarding</i></p>
+<p align="center">
+    <img src="Images/xamarin-forms-ui-template-onboarding-screen.png" alt="Image" height="350" width="800"/>
+</p>
+
+<p align="center"><i>About</i></p>
+<p align="center">
+    <img src="Images/xamarin-forms-ui-template-about-page.png" alt="Image" height="350" width="800"/>
+</p>
 
 ## Requesting Screens & Reporting Bugs
 If you would like to request a new screen or report a bug in existing screens, go ahead and create a feature request or log a bug through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
