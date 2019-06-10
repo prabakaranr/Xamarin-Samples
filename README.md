@@ -53,32 +53,32 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 
 <p align="center"><i>E-Commerce</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-e-commerce-page.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-e-commerce-page.png" alt="Image"/>
 </p>
 
 <p align="center"><i>Chat</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-chat-screen.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-chat-screen.png" alt="Image"/>
 </p>
 
 <p align="center"><i>Feedback</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-feedback-page.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-feedback-page.png" alt="Image"/>
 </p>
 
 <p align="center"><i>Navigation</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-navigation-page.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-navigation-page.png" alt="Image"/>
 </p>
 
 <p align="center"><i>OnBoarding</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-onboarding-screen.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-onboarding-screen.png" alt="Image"/>
 </p>
 
 <p align="center"><i>About</i></p>
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-about-page.png" alt="Image" height="350" width="800"/>
+    <img src="Images/xamarin-forms-ui-template-about-page.png" alt="Image"/>
 </p>
 
 ## Requesting Screens & Reporting Bugs
