@@ -47,42 +47,42 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 
 ## Screenshots (In Progress)
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-login-screens.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-login-screens.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-article-page.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-article-page.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-e-commerce-page.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-e-commerce-page.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-chat-screen.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-chat-screen.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-feedback-page.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-feedback-page.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-navigation-page.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-navigation-page.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-onboarding-screen.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-onboarding-screen.jpg" alt="Image"/>
 </p>
 <br/><br/>
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template-about-page.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template-about-page.jpg" alt="Image"/>
 </p>
 
 ## Requesting Screens & Reporting Bugs
