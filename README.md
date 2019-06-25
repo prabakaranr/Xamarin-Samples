@@ -46,43 +46,41 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 
 
 ## Screenshots (In Progress)
-<p align="center"><i><b><em><strong>Articles</strong></em></b></i></p>
+<p align="center">
+    <img src="Images/xamarin-forms-ui-template-login-screens.png" alt="Image"/>
+</p>
+<br/><br/>
+
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-article-page.png" alt="Image"/>
 </p>
 <br/><br/>
 
-<p align="center"><i><b><em><strong>E-Commerce</strong></em></b></i></p>
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-e-commerce-page.png" alt="Image"/>
 </p>
 <br/><br/>
 
-<p align="center"><i><b><em><strong>Chat</strong></em></b></i></p>
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-chat-screen.png" alt="Image"/>
 </p>
 <br/><br/>
 
-<p align="center"><i><b><em><strong>Feedback</strong></em></b></i></p>
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-feedback-page.png" alt="Image"/>
 </p>
 <br/><br/>
 
-<p align="center"><i><b><em><strong>Navigation</strong></em></b></i></p>
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-navigation-page.png" alt="Image"/>
 </p>
 <br/><br/>
 
-<p align="center"><i><b><em><strong>OnBoarding</strong></em></b></i></p>
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-onboarding-screen.png" alt="Image"/>
 </p>
 <br/><br/>
 
-<p align="center"><i><b><em><strong>About</strong></em></b></i></p>
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-about-page.png" alt="Image"/>
 </p>
