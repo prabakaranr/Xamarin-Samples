@@ -1,5 +1,5 @@
 # Essential UI Kit for Xamarin.Forms
-This repository contains the reusable UI templates to build a cross platform application using Xamarin.Forms. The templates developed from ground up by considering the different layouts, orientations, design pattern, RTL, localization, performance, ease of integration and more.
+This repository contains elegantly designed XAML templates for Xamarin.Forms apps. These templates are compatible with Android, iOS, and UWP platforms, and use the MVVM design pattern to provide trouble-free integration.
 
 <p align="center">
     <img src="Images/xamarin-forms-ui-template.png" alt="Image"/>
