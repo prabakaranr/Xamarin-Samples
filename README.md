@@ -12,14 +12,14 @@ This repository contains elegantly designed XAML templates for Xamarin.Forms app
 | App Center, Android | [![Build status](https://build.appcenter.ms/v0.1/apps/4e5e10f9-04aa-48ca-ba31-0a58da0c4c4d/branches/master/badge)](https://appcenter.ms) |
 
 ## Key Features
-* Rich and elegant XAML layouts for most common scenarios.
-* The layouts are optimized for Phones, Tablets, and Desktop.
-* Based on the MVVM design pattern and works with any MVVM frameworks.
-* Ease of integration.
-* Developer friendly APIs.
+* Rich, elegant XAML layouts for most common scenarios.
+* Layouts optimized for phones, tablets, and desktop.
+* Based on the MVVM design pattern to work with any MVVM framework.
+* Easy integration.
+* Developer-friendly APIs.
 * Appearance customization using styles.
-* Optimistic layout to the get best possible performance.
-* Right-to-Left rendering support.
+* Optimized layouts to get the best possible performance.
+* Right-to-left rendering support.
 
 ## Supported Platforms
 * Android 5.0 (or API level 21) and later versions.
@@ -29,7 +29,7 @@ This repository contains elegantly designed XAML templates for Xamarin.Forms app
 The required minimum version of Xamarin.Forms is 4.0.0.425677.
 
 ## System Requirements
-Refer to the [System Requirements](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/requirements) documentation of Xamarin to learn more the development environments.
+Refer to the [Xamarin system requirements](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/requirements) documentation to learn more about the development environments.
 
 ## The Visual Studio Extension
 The Visual Studio extension allows you to add the required templates quickly through few clicks. The extension setup is available in the Visual Studio marketplace with detailed information of how to add the templates.
@@ -86,7 +86,7 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 </p>
 
 ## Requesting Screens & Reporting Bugs
-If you would like to request a new screen or report a bug in existing screens, go ahead and create a feature request or log a bug through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
+If you would like to request a new screen or report a bug in existing screens, create a feature request or submit a bug through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
 
 ## License
 Licensed under the MIT License. Refer to the [LICENSE](LICENSE) file for more information.
