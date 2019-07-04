@@ -36,7 +36,7 @@ The Visual Studio extension allows you to add the required templates quickly thr
 
 *VS Item template link*
 
-## Coding Style (In Progress)
+## Coding Style
 We follow the style used by the .NET Foundation, with a few exceptions:
 * We use tabs instead of spaces.
 * We do not prefix internal and private instance fields with `_`, static fields with `s_` and thread static fields with `t_`.
@@ -45,7 +45,7 @@ We follow the style used by the .NET Foundation, with a few exceptions:
 * https://blog.syncfusion.com/post/introducing-ui-templates-for-xamarin-forms.aspx
 
 
-## Screenshots (In Progress)
+## Screenshots
 <p align="center">
     <img src="Images/xamarin-forms-ui-template-login-screens.jpg" alt="Image"/>
 </p>
