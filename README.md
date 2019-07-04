@@ -32,7 +32,7 @@ The required minimum version of Xamarin.Forms is 4.0.0.425677.
 Refer to the [Xamarin system requirements](https://docs.microsoft.com/en-us/xamarin/cross-platform/get-started/requirements) documentation to learn more about the development environments.
 
 ## The Visual Studio Extension
-The Visual Studio extension allows you to add the required templates quickly through few clicks. The extension setup is available in the Visual Studio marketplace with detailed information of how to add the templates.
+The Visual Studio extension allows you to add the required templates quickly through a few clicks. The extension Setup is available in the Visual Studio marketplace with detailed information of how to add the templates.
 
 *VS Item template link*
 
