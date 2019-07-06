@@ -96,7 +96,9 @@ This project uses [FFImageLoading](https://github.com/daniel-luberda/FFImageLoad
 The demo images and illustrations exhibited in this app are obtained from the following website.
 
 https://www.pexels.com/
+
 https://unsplash.com/
+
 https://undraw.co/illustrations
 
 **Note:** If any of the Syncfusion controls are used in your page, then you have to obtain the [Essential Studio for Xamarin](https://www.syncfusion.com/downloads/xamarin) license either under the [Syncfusion community license](https://www.syncfusion.com/downloads/communitylicense) program or the [Syncfusion commercial license](https://www.syncfusion.com/sales/products).
