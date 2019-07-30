@@ -1,7 +1,7 @@
 # Essential UI Kit for Xamarin.Forms
 This repository contains elegantly designed XAML templates for Xamarin.Forms apps. These templates are compatible with Android, iOS, and UWP platforms, and use the MVVM design pattern to provide trouble-free integration.
 
-Install the app to preview the templates<a href='https://play.google.com/store/apps/details?id=com.syncfusion.samplebrowser&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+| Install the app to preview the templates | [![Build status](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://appcenter.ms) |
 
 <p align="center">
     <img src="Images/xamarin-forms-ui-template.png" alt="Image"/>
