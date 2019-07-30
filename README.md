@@ -88,6 +88,9 @@ We follow the style used by the .NET Foundation, with a few exceptions:
     <img src="Images/xamarin-forms-ui-template-about-page.jpg" alt="Image"/>
 </p>
 
+<p align="center"> <b> Install the app to preview the templates instantly </b> </p>
+<p align="center"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Image" width="150" height="55"/> </p>
+
 ## Requesting Screens & Reporting Bugs
 If you would like to request a new screen or report a bug in existing screens, create a feature request or submit a bug through our [feedback portal](https://www.syncfusion.com/feedback/xamarin-forms).
 
