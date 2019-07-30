@@ -4,7 +4,7 @@ This repository contains elegantly designed XAML templates for Xamarin.Forms app
 Install the app to preview the templates instantly [![Build status](https://build.appcenter.ms/v0.1/apps/ca1f283a-7255-45e4-8cf1-d2ce46cb4a0a/branches/master/badge)](https://appcenter.ms)|
 
 <p align="center">
-    <img src="Images/xamarin-forms-ui-template.png" alt="Image"/>
+    <img src="Images/xamarin-forms-ui-template.png" alt="Image" width="150" height="45"/>
 </p>
 
 ## Build Status
